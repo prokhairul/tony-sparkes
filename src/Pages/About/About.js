@@ -13,8 +13,8 @@ const About = () => {
                 <img src={khairul} alt="" />
             </div>
             <div className='aboutus-title'>
-                <h2>Tony Sparkes</h2>
-                <p> Tony Sparkes is a Professional wildlife photographer based in Lillehammer, in the centre of southern Norway. He is an elected member of the Norwegian Nature Photographers Association/NN, a prestigious association of professional nature photographers. In 2017 Arnfinn founded Oltepesi Tented Safari Camp, an eco safari camp located in Maasai Mara in Kenya, to meet professional wildlife photographers’ and nature photo enthusiasts’ needs. Arnfinn also is a photo guide for Zoom Fotoresor, Africa Geographic, and NaturesLens. His images are represented internationally by NTB Scanpix news and photo agency, the leading visual content supplier in Scandinavia. </p>
+                <h2>Md. Khairul Islam</h2>
+                <p>Hello, Welcome to my Wildlife website. I'm Khairul Islam, a junior web develper. Currently trying to improve my web development skill. Already joined Full Stack Web Development Corse By Jhankar Mahbub Sir. I am always doing that which I cannot do, in order that I may learn how to do it. I know how to find any possible solutions through online properly.  I always try to research and find out the best solutions for my project. I'm a good learner and my future plan is to became a full stack web developer </p>
             </div>
 
 

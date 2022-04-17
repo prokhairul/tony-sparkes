@@ -16,7 +16,7 @@ const Services = () => {
 
 
     return (
-        <div id='services' className='container'>
+        <div id='purchase' className='container'>
 
             <h2 className='services-title'>PURCHASE IMAGES</h2>
 

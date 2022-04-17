@@ -1,9 +1,15 @@
 import React from 'react';
+import './NotFound.css'
+
+import opps from '../../images/error.png'
 
 const NotFound = () => {
+
+
+
     return (
-        <div>
-            This is not found page
+        <div className='notfound'>
+            <img src={opps} alt="" />
         </div>
     );
 };
