@@ -1,9 +1,14 @@
 import React from 'react';
+import Services from '../Services/Services';
+import Slider from '../Slider/Slider';
+import ShortDetail from '../ShortDetail/ShortDetail';
 
 const FontPage = () => {
     return (
         <div>
-            <h2> This Is Home Page </h2>
+            <Slider></Slider>
+            <ShortDetail></ShortDetail>
+            <Services></Services>
         </div>
     );
 };

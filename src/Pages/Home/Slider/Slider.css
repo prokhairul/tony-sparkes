@@ -1,0 +1,33 @@
+.slider-img img {
+    max-height: 920px;
+}
+
+.carousel-caption {
+    bottom: 22.25rem !important;
+}
+
+.carousel-caption h3 {
+    font-family: monospace !important;
+    font-size: 65px;
+    text-transform: uppercase;
+    background: linear-gradient(to right, #f8f8ff 0%, #f5f5dc 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+.carousel-caption p {
+    font-size: 28px;
+    background: linear-gradient(to right, #f8f8ff 0%, #f5f5dc 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-family: monospace !important;
+}
+
+.carousel-control-next-icon,
+.carousel-control-prev-icon {
+    display: none !important;
+}
+
+.carousel-indicators {
+    display: none !important;
+}

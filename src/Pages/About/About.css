@@ -1,0 +1,31 @@
+.aboutus-main {
+    margin-top: 100px;
+    align-items: center;
+    margin-bottom: 100px;
+}
+
+.aboutus-title {
+    padding: 0;
+}
+
+.aboutus-title h2 {
+    margin: 20px 0px 20px 0px;
+    font-family: monospace !important;
+    font-size: 35px;
+    text-transform: uppercase;
+    background: linear-gradient(to right, #3cb371 0%, #a3c1ad 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
+
+.aboutus-title p {
+    padding: 0 100px 0px 100px;
+    line-height: 30px;
+    font-family: monospace;
+}
+
+.aboutus-img img {
+    width: 450px;
+    justify-content: right;
+}

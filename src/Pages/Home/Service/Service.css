@@ -1,0 +1,52 @@
+.service {
+    border: 2px solid #f5f5f5;
+    padding: 10px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.service img {
+    border-radius: 5px;
+    margin-bottom: 20px;
+    width: 300px;
+}
+
+.service h5 {
+    font-family: monospace;
+    color: #4d5d53;
+    background-color: #f0fff0;
+    padding: 5px;
+    border-radius: 10px;
+}
+
+.service p {
+    font-family: monospace;
+    padding: 5px;
+}
+
+.service h6 {
+    font-family: monospace;
+    font-weight: bold;
+    color: #414a4c;
+    margin-bottom: 20px;
+}
+
+.service-btn {
+
+    background-color: #dcdcdc;
+    border: none;
+    color: #4d5d53;
+    font-family: monospace;
+    width: 200px;
+    padding: 5px;
+    margin: 10px 0px 10px 0px;
+    font-size: 18px;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.service-btn:hover {
+    background-color: #838996;
+    color: #f5f5f5;
+    font-weight: bold;
+}

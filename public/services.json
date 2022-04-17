@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "name": "Basic Package",
+        "price": "450",
+        "description": "Semigloss, Not Framed",
+        "size": "20 X 30 CM",
+        "img": "https://i.ibb.co/TqP3QYr/service1.png"
+    },
+    {
+        "id": 2,
+        "name": "Standard Package",
+        "price": "700",
+        "description": "Canvas, Framed",
+        "size": "80 X 120 CM",
+        "img": "https://i.ibb.co/MsByZ1s/service2.png"
+    },
+    {
+        "id": 3,
+        "name": "Premium Package",
+        "price": "980",
+        "size": "150 X 225 CM",
+        "description": "Aluminium Acrylic Glass Hard Foam Board",
+        "img": "https://i.ibb.co/bQPnrT7/service3.png"
+    }
+]
