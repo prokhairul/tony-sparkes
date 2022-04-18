@@ -53,3 +53,19 @@
     color: #f5f5f5;
     font-weight: bold;
 }
+
+
+
+@media only screen and (max-width: 600px) {
+
+    .service {
+        width: 300px;
+    }
+
+    .service img {
+        width: 250px;
+    }
+
+
+
+}

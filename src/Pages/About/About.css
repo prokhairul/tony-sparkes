@@ -17,7 +17,6 @@
 
 
 .aboutus-title p {
-    padding: 0 100px 0px 100px;
     line-height: 30px;
     font-family: monospace;
 }
@@ -25,4 +24,16 @@
 .aboutus-img img {
     width: 450px;
     justify-content: right;
+}
+
+
+@media only screen and (max-width: 600px) {
+
+    .aboutus-title p {
+        padding: 0 0px 0px 0px !important;
+        line-height: 30px;
+        font-family: monospace;
+
+    }
+
 }
