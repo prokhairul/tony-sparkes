@@ -1,8 +1,11 @@
 .service {
-    border: 2px solid #f5f5f5;
+    border: 2px solid #d3dae09f;
     padding: 10px;
     border-top-left-radius: 10px;
     border-bottom-right-radius: 10px;
+    background-color: #fefefa;
+    margin-bottom: 50px;
+    filter: drop-shadow(0 0 0.55rem #a3a3a356);
 }
 
 .service img {
@@ -35,7 +38,7 @@
 
     background-color: #dcdcdc;
     border: none;
-    color: #4d5d53;
+    color: #004953;
     font-family: monospace;
     width: 200px;
     padding: 5px;

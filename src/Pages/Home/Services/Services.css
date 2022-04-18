@@ -9,8 +9,7 @@
     font-family: monospace !important;
     font-size: 35px;
     text-transform: uppercase;
-    background: linear-gradient(to right, #3cb371 0%, #a3c1ad 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    color: #004953;
     margin-bottom: 50px;
+    margin-top: 50px;
 }

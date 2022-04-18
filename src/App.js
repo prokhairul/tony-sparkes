@@ -6,7 +6,7 @@ import About from './Pages/About/About'
 import Header from './Pages/Shared/Header/Header'
 import Footer from './Pages/Shared/Footer/Footer'
 import Services from './Pages/Home/Services/Services'
-import Service from './Pages/Home/Service/Service'
+import ServiceDetails from './Pages/ServiceDetails/ServiceDetails'
 import Login from './Pages/Login/Login'
 import Register from './Pages/Login/Register'
 import NotFound from './Pages/404/NotFound'
@@ -24,6 +24,9 @@ function App() {
         <Route path='/home' element={<FontPage></FontPage>}></Route>
         <Route path='/about' element={<About></About>}></Route>
         <Route path='/services' element={<Services></Services>}></Route>
+
+        <Route path='/services/:servicesId' element={<ServiceDetails></ServiceDetails>}></Route>
+
         <Route path='/blogs' element={<Blogs></Blogs>}></Route>
         <Route path='/login' element={<Login></Login>}></Route>
         <Route path='/register' element={<Register></Register>}></Route>

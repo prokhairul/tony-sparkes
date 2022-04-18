@@ -1,4 +1,5 @@
 import React from 'react';
+import './Footer.css'
 
 const Footer = () => {
 
@@ -10,7 +11,7 @@ const Footer = () => {
 
 
     return (
-        <div>
+        <div className='footer-design'>
             <p> &copy; Copyright {year} <strong>Tony Sparkes</strong> - All rights reserved</p>
         </div>
     );

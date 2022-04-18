@@ -1,7 +1,6 @@
 .aboutus-main {
-    margin-top: 100px;
+    margin-top: 50px;
     align-items: center;
-    margin-bottom: 100px;
 }
 
 .aboutus-title {
@@ -13,9 +12,7 @@
     font-family: monospace !important;
     font-size: 35px;
     text-transform: uppercase;
-    background: linear-gradient(to right, #3cb371 0%, #a3c1ad 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
+    color: #004953;
 }
 
 
